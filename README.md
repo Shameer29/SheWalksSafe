@@ -27,3 +27,67 @@ address of the user along with live location of the user. The trusted contacts, 
 and police station can use this live location to get directions and navigate to the exact location
 of the distressed person. The app can be used for your personal safety, women safety and
 children safety </h5>
+
+<h1>Execution of the application: </h1>
+<h5>✓ If the user is a new user, he/she has to sign up initially. Male can sign up as a volunteer
+and Female can sign up as a user.
+✓ If the user is a Male, he has to enter the details such as name, mobile number, email
+and his location.
+✓ If the user is a Female, she has to enter the details such as name, mobile number,
+email and location, date of birth, state, district, photo and guardian mobile number.
+✓ Both the user can login in after completing the signup process.
+There are 3 modes of support provided for women
+1) The user can use help SOS for any kind of small emergency such as accident.
+2) The user can have a direct video call with the guardian with live location shared.
+3) In case of any harassment or any abuse the user can click on the power button
+more than 4 times and then click on volume up button 1 time to confirm
+After clicking on the SOS, the male or female who have logged in as a volunteer, the
+trusted contacts saved in the application, and the nearby police station is sent a message
+through the application containing name, mobile number, live location and also a picture of
+the person who needs help.
+And this information is also sent to all of them through email.
+If the woman isin the moving state, the live location is shared dynamically to all the volunteers
+around 2km. This live location is shared until the rescue mission is over.
+We have provided extra feature of AI Powered BOT which Activates on Listening to higher
+Frequency of Sounds and it works like a voice assistant so that a women can easily search for
+a help. </h5>
+
+<h1>Features Of the Application </h1>
+<h5> 1. Live tracking of the affected person.
+2. Live location is shared continuously to all the volunteers in specific locations as the
+affected person keeps moving.
+3. An Immediate message along with the picture and live location is sent to the nearest police
+station.
+4. Responsive SOS System.
+5. The Message is Sent in the Application to the volunteers if the internet is ON, and if the
+user is in offline mode the messages are sent as SMS.
+6. An 1 min audio is Recorded when the SOS is turned ON and sent only to the Police Station
+and the number whose name is saved as Guardian.
+7. SheWalksSafe also provides additional features like a women or men can also contact to
+the nearest Hospitals or Police Station when they are met in an accident in some lonely place.
+8. They can also have a video calling with the Guardian or Doctor for first AID.
+9.This application has Fingerprint Authentication for Secured Access.
+10.AI Powered BOT for Immediate Rescue.
+</h5>
+
+<h1>Working of SOS: </h1>
+<h5>SOS System in this application works when the user presses the power button more
+than 4 times and pressing the volume up button for the confirmation the SOS gets activated
+this can be used when a woman faces some harassment's or a very big problem caused due
+to some persons.
+An SOS is System is also Available inside the application this can be used when a user
+is able to use the mobile phone during her Emergency Situations.
+ </h5>
+ 
+ <h1>Conclusion </h1>
+ <h5> In conclusion, women can be powerful actors for peace, security, and prosperity.
+When they participate in peace processes and other formal decision-making processes, they
+can play an important role in initiating and inspiring progress on human rights, justice,
+national reconciliation and economic revitalization. So, we believe that the harassment of
+women would be reduced by 70% by proper usage of this app.
+</h5>
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets9.lottiefiles.com/packages/lf20_glSkRr.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+
+  
