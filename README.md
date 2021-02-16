@@ -53,20 +53,20 @@ Frequency of Sounds and it works like a voice assistant so that a women can easi
 a help. </h4>
 
 <h1>Features Of the Application </h1>
-<h4> 1. Live tracking of the affected person.<br><br><br>
+<h4> 1. Live tracking of the affected person.<br>
 2. Live location is shared continuously to all the volunteers in specific locations as the
-affected person keeps moving.<br><br>
+affected person keeps moving.<br>
 3. An Immediate message along with the picture and live location is sent to the nearest police
 station.<br>
 4. Responsive SOS System.<br>
 5. The Message is Sent in the Application to the volunteers if the internet is ON, and if the
-user is in offline mode the messages are sent as SMS.<br><br>
+user is in offline mode the messages are sent as SMS.<br>
 6. An 1 min audio is Recorded when the SOS is turned ON and sent only to the Police Station
 and the number whose name is saved as Guardian.<br>
 7. SheWalksSafe also provides additional features like a women or men can also contact to
-the nearest Hospitals or Police Station when they are met in an accident in some lonely place.<br><br>
+the nearest Hospitals or Police Station when they are met in an accident in some lonely place.<br>
 8. They can also have a video calling with the Guardian or Doctor for first AID.<br>
-9.This application has Fingerprint Authentication for Secured Access.<br><br>
+9.This application has Fingerprint Authentication for Secured Access.<br>
 10.AI Powered BOT for Immediate Rescue.<br>
 </h4>
 
