@@ -30,21 +30,21 @@ children safety </h4>
 
 <h1>Execution of the application: </h1>
 <h4>✓ If the user is a new user, he/she has to sign up initially. Male can sign up as a volunteer
-and Female can sign up as a user.
+and Female can sign up as a user.<br>
 ✓ If the user is a Male, he has to enter the details such as name, mobile number, email
-and his location.
+and his location.<br>
 ✓ If the user is a Female, she has to enter the details such as name, mobile number,
-email and location, date of birth, state, district, photo and guardian mobile number.
+email and location, date of birth, state, district, photo and guardian mobile number.<br>
 ✓ Both the user can login in after completing the signup process.
-There are 3 modes of support provided for women
-1) The user can use help SOS for any kind of small emergency such as accident.
-2) The user can have a direct video call with the guardian with live location shared.
-3) In case of any harassment or any abuse the user can click on the power button
+There are 3 modes of support provided for women<br>
+1) The user can use help SOS for any kind of small emergency such as accident.<br>
+2) The user can have a direct video call with the guardian with live location shared.<br>
+3) In case of any harassment or any abuse the user can click on the power button<br>
 more than 4 times and then click on volume up button 1 time to confirm
 After clicking on the SOS, the male or female who have logged in as a volunteer, the
 trusted contacts saved in the application, and the nearby police station is sent a message
 through the application containing name, mobile number, live location and also a picture of
-the person who needs help.
+the person who needs help.<br>
 And this information is also sent to all of them through email.
 If the woman isin the moving state, the live location is shared dynamically to all the volunteers
 around 2km. This live location is shared until the rescue mission is over.
@@ -53,21 +53,21 @@ Frequency of Sounds and it works like a voice assistant so that a women can easi
 a help. </h4>
 
 <h1>Features Of the Application </h1>
-<h4> 1. Live tracking of the affected person.
+<h4> 1. Live tracking of the affected person.<br><br><br>
 2. Live location is shared continuously to all the volunteers in specific locations as the
-affected person keeps moving.
+affected person keeps moving.<br><br>
 3. An Immediate message along with the picture and live location is sent to the nearest police
-station.
-4. Responsive SOS System.
+station.<br>
+4. Responsive SOS System.<br>
 5. The Message is Sent in the Application to the volunteers if the internet is ON, and if the
-user is in offline mode the messages are sent as SMS.
+user is in offline mode the messages are sent as SMS.<br><br>
 6. An 1 min audio is Recorded when the SOS is turned ON and sent only to the Police Station
-and the number whose name is saved as Guardian.
+and the number whose name is saved as Guardian.<br>
 7. SheWalksSafe also provides additional features like a women or men can also contact to
-the nearest Hospitals or Police Station when they are met in an accident in some lonely place.
-8. They can also have a video calling with the Guardian or Doctor for first AID.
-9.This application has Fingerprint Authentication for Secured Access.
-10.AI Powered BOT for Immediate Rescue.
+the nearest Hospitals or Police Station when they are met in an accident in some lonely place.<br><br>
+8. They can also have a video calling with the Guardian or Doctor for first AID.<br>
+9.This application has Fingerprint Authentication for Secured Access.<br><br>
+10.AI Powered BOT for Immediate Rescue.<br>
 </h4>
 
 <h1>Working of SOS: </h1>
